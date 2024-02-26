@@ -1,6 +1,6 @@
 {
   "name": "wired-v",
-  "version": "1.0.2",
+  "version": "0.0.9",
   "description": "",
   "main": "src/index.js",
   "scripts": {
